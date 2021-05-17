@@ -2,4 +2,4 @@
 
 animated gifs sometimes get fairly large
 
-I'll share some here, and also try to explore other forms
+I'll share some here, and I'll also try to eventually explore other forms, such as compressed video
